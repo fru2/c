@@ -1,0 +1,1 @@
+del /S %CD%\*.exe
